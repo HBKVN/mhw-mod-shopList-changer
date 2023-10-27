@@ -178,3 +178,5 @@ label.grid(row=1,column=0, columnspan=2)
 
 #초기 선언
 load_setting()
+
+root.mainloop()
